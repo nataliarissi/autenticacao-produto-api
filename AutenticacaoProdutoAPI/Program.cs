@@ -23,12 +23,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
-//Produto:
-//Fornecedor,
-//Cliente,
-//Vendedor,
-//"Administrador",
-//Usuário,
-//Pessoa,
-//Categoria(Departamento)

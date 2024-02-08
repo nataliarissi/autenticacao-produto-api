@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AutenticacaoProdutoAPI.Controllers.Produtos
 {
-    [Route("api/[controller]")]
+    [Route("/produtos/usuarios")]
     [ApiController]
     public class UsuariosController : ControllerBase
     {
